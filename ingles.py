@@ -1,2 +1,2 @@
 print ('hello')
-ola == 1
+ola = int
